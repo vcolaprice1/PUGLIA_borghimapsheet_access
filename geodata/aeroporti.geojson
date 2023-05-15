@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "aeroporti",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "23443574", "code": 5651, "fclass": "airport", "name": "Aeroporto di Foggia \"Gino Lisa\"", "result_num": "0", "display_na": "23443574", "category": "Aeroporto di Foggia \"Gino Lisa\", Strada Statale Adriatica, Foggia, Puglia, 71100, Italia", "type": "aeroway", "latlong": "aerodrome" }, "geometry": { "type": "Point", "coordinates": [ 15.536652586972473, 41.4333616 ] } },
+{ "type": "Feature", "properties": { "osm_id": "10048058", "code": 5651, "fclass": "airport", "name": "Aeroporto Internazionale di Bari \"Karol Wojtyla\"", "result_num": "0", "display_na": "10048058", "category": "Aeroporto Internazionale di Bari \"Karol Wojtyla\", Via Gabriele D'Annunzio, Palese-Macchie, Municipio 5, Bari, Puglia, 70128, Italia", "type": "aeroway", "latlong": "aerodrome" }, "geometry": { "type": "Point", "coordinates": [ 16.760454493801099, 41.1369368 ] } },
+{ "type": "Feature", "properties": { "osm_id": "12857931", "code": 5651, "fclass": "airport", "name": "Aeroporto \"Antonio Papola\" di Brindisi-Casale", "result_num": "0", "display_na": "12857931", "category": "Aeroporto \"Antonio Papola\" di Brindisi-Casale, Largo Niccolò Machiavelli, Paradiso, Brindisi, Puglia, 72100, Italia", "type": "aeroway", "latlong": "aerodrome" }, "geometry": { "type": "Point", "coordinates": [ 17.948577553183746, 40.661605 ] } }
+]
+}
